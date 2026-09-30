@@ -67,9 +67,6 @@ jupyter notebook Code.ipynb
 
 ```text
 crk-text-mining/
-├── assets/
-│   ├── rating_dist.png
-│   └── wordcloud.png
 ├── cookie_run_kingdom.csv   # Scraped dataset
 ├── Code.ipynb               # Analysis notebook
 └── README.md
